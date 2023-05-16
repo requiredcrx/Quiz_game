@@ -6,8 +6,8 @@ This is the Day 17 project of the 100 Days of Python coding challenge. The Quiz 
 ## How to Run the Program
 
 Clone the repository to your local machine.
-+ Install the required packages listed in the requirements.txt file by running the command ```pip install -r requirements.txt``` in your terminal.
-+ Run the quiz_game.py file in your terminal by running the command python quiz_game.py.
++ Install the required packages listed in the ```requirements.txt``` file by running the command ```pip install -r requirements.txt``` in your terminal.
++ Run the ```quiz_game_start.py``` file in your terminal by running the command ```python quiz_game_start.py```.
 
 
 ## How to Play the Game
