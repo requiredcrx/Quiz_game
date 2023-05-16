@@ -6,7 +6,7 @@ This is the Day 17 project of the 100 Days of Python coding challenge. The Quiz 
 ## How to Run the Program
 
 Clone the repository to your local machine.
-+ Install the required packages listed in the ```requirements.txt``` file by running the command ```pip install -r requirements.txt``` in your terminal.
++ Install the required packages listed in the ```requirements.txt``` file by running the command ```pip install -r requirements.txt``` in your terminal. (if none, plsease skip)
 + Run the ```main.py``` file in your terminal by running the command ```python main.py```.
 
 
